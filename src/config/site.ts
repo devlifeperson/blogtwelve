@@ -2,8 +2,8 @@ import { publicEnv } from "./public-env";
 
 export const siteConfig = {
   name: "Index Blog",
-  title: "",
-  description: "",
+  title: "Startup Sphere - Entrepreneurial Excellence",
+  description: "Resources and insights for entrepreneurs and startup founders.",
   canonical: publicEnv.SITE_URL,
   mainNav: [
     {
